@@ -1,0 +1,30 @@
+.card-container {
+  width: 300px;
+  border: 3px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: whitesmoke;
+  /* position: relative; */
+}
+
+.image {
+  width: 300px;
+  height: 200px;
+  border-radius: 7px;
+}
+
+.btn-add {
+  width: 300px;
+  height: 40px;
+  background-color: #f9931f;
+  border-radius: 7px;
+  color: white;
+  font-weight: 700;
+  border: none;
+  /* position: absolute; */
+}
+
+.btn-add:hover {
+  background-color: tomato;
+  color: black;
+}

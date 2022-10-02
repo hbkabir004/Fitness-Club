@@ -1,0 +1,51 @@
+[
+  {
+    "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+    "name": "Push Up",
+    "para": "A conditioning exercise performed in a prone position by raising and lowering the body with the straightening and bending of the arms while keeping the back straight and supporting the body on the hands and toes.",
+    "time": 420,
+    "age": "15-40",
+
+    "img": "https://phantom-marca.unidadeditorial.es/efa9740df47cff7f9466ea78fd720074/crop/0x93/899x599/resize/1320/f/jpg/assets/multimedia/imagenes/2022/01/19/16426036798831.jpg"
+  },
+  {
+    "id": "13cbc7ed-a61b-4883-9d42-82d7d8642b86",
+    "name": "Pull Up",
+    "para": "The pullup is one of the most effective exercises for strengthening the back muscles. Pullups work the following muscles of the back.",
+    "time": 196,
+    "age": "19-35",
+    "img": "https://images.contentstack.io/v3/assets/blt45c082eaf9747747/bltb17dae1b414b51b4/5de0ba0a6726b202fc5f058f/beginner_pullups.jpg?width=1200&height=630&fit=crop"
+  },
+  {
+    "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+    "name": "Squats",
+    "para": "Side squats are an exercise that strengthens the legs, glutes, and outer thighs for strong, sculpted legs and a fit, toned lower body. Side squats are like the forgotten cousin of all squats.",
+    "time": 245,
+    "age": "20-30",
+    "img": "https://marathonhandbook.com/wp-content/uploads/2022/05/How-Many-Squats-Should-I-Do-A-Day-2.jpg"
+  },
+  {
+    "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+    "name": "Burpees",
+    "para": "Take a position standing with your legs slightly more apart than shoulder width and hands relaxed alongside your body. Exercise: Move from the standing position smoothly into the standard push-up position.",
+    "time": 229,
+    "age": "20-35",
+    "img": "https://experiencelife.lifetime.life/wp-content/uploads/2021/03/How-to-do-the-perfect-burpee.jpg"
+  },
+  {
+    "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+    "name": "Side planks",
+    "para": "The side plank is one of the easiest ways to work the two layers of muscle along the sides of your core, known as your obliques. These muscles help you rotate and bend your trunk, and they also play a role in helping to protect your spine.",
+    "time": 287,
+    "age": "15-25",
+    "img": "https://www.masterclass.com/cdn-cgi/image/width=828,quality=75,format=webp/https://images.ctfassets.net/3s5io6mnxfqz/7oifPKmAQ5GhrY1aPSD4zZ/2562201638514ec6966c33e564e4ef05/MasterClassSEO_Side_Plank_HERO.jpg"
+  },
+  {
+    "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+    "name": "Lunges",
+    "para": "Start standing with legs slightly wider than shoulder-distance apart and toes pointed forward. Shift your body weight to one leg bending the knee until it reaches a 90-degree angle and the other leg is straight.",
+    "time": 138,
+    "age": "15-30",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHY9-Lh47AeLBkIzxgtqR45GpGpjfbNXspJQ&usqp=CAU"
+  }
+]
