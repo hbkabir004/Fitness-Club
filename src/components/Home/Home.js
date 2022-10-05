@@ -1,6 +1,6 @@
 import React from 'react';
 import Cards from '../Cards/Cards';
-import Side from '../Side/Side';
+// import Side from '../Side/Side';
 import './Home.css';
 
 const Home = () => {
@@ -8,7 +8,6 @@ const Home = () => {
     return (
         <div className='home-container'>
             <Cards></Cards>
-            <Side></Side>
         </div>
     );
 };
